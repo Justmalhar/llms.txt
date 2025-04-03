@@ -2,6 +2,8 @@
 
 A collection of llms.txt for various AI powered tools and services.
 
+[OpenAI Agents SDK - llm.txt](openai-agents-sdk-llms-txt.md)
+
 ## About
 
 This repository contains a collection of `llms.txt` implementations for various AI-powered tools and services. The `llms.txt` file is a standardized way to provide information about how LLM-powered tools and services should interact with your documentation and codebase.
